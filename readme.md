@@ -9,6 +9,7 @@
 <b> W projekcie użyta biblioteka http://image.intervention.io/ <b> </br>
     1. Kontroller app\http\Controllers\ResizeController.php </br>
     2. Widoki szablon resources/views/resize.blade.php <b></br></br>
+    Zdjecia zapisuje w folderze public/thumbnail
     
     
     uruchomienie: zainstalować composer w folderze z projektem nastepnie polecenie: php artisan serve 
