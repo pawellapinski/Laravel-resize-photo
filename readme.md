@@ -4,10 +4,10 @@
 
 ## About Laravel
 
-<b>Zmniejsza zdjęcia o 1,5.</b> </br>
+<b>Zmniejsza zdjęcia o 1,5 x</b> </br>
 
 <b> W projekcie użyta biblioteka http://image.intervention.io/ <b> </br>
-    1. Kontroler app\http\Controllers\ResizeController.php
+    1. Kontroller app\http\Controllers\ResizeController.php </br>
     2. Widoki szablon resources/views/resize.blade.php <b></br></br>
     
     
