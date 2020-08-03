@@ -11,7 +11,7 @@
     2. Widoki szablon resources/views/resize.blade.php <b></br></br>
     
     
-    uruchomienie: zainstalować composer w folderze z projektem nastepnie polecenie: php artisan serve </br>
+    uruchomienie: zainstalować composer w folderze z projektem nastepnie polecenie: php artisan serve 
     
 
 ## License
