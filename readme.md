@@ -2,7 +2,7 @@
 
 <p align="center">
 
-## About Laravel
+## Instrukcja
 
 <b>Zmniejsza zdjęcia o 1,5 x</b> </br>
 
